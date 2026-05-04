@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.container{
+	display:"flex";
+}
+form{
+	display:flex;
+	flex-direction:column;
+	justify-items:center;
+	align-items:center;
+}
+input{
+	margin: 2px;
+}
